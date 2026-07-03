@@ -1,0 +1,11 @@
+refinitiv-data
+pandas
+sys
+datetime
+numpy
+tatsmodels
+pytest
+scipy
+warnings
+scikit-learn
+typing
