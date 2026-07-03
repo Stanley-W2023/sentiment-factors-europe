@@ -1,0 +1,9 @@
+# environments & caches
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# databases & raw factor downloads — rebuilt by the pipelines
+*.duckdb
+*/data/*.csv
